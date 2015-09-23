@@ -1,5 +1,22 @@
 # (c) 2012 Zach Tomaszewski 
 # http://www2.hawaii.edu/~ztomasze/ics661/
+#
+# Changelog:
+#   -   Merged ale/ali into one structural token
+#   -   Defined proper noun rule PropN & Name
+#   -   Removed unknown word 'wike'
+#
+# Todo:
+#   -   New official words not included here: alasa, esun, pu, ko, kon, pan
+#   -   New unofficial/draft words not included hee: kipisi, kin, namako
+#   -   Synonyms:
+#       -   a == kin
+#       -   ale == ali
+#       -   lukin == oko
+#       -   sin == namako
+#   -   Support tokiponanized proper names
+#   -   Fix "Unproductive symbol: CompoundSubj"
+#   -   Support complex sentence structure involving punctuation marks
 
 :default ::=
     action => eval
@@ -74,7 +91,7 @@ Interjection ::= a | a a | a a a | ala | ike | jaki | mu | o | pakala | pona | t
 
 PropN ::= jan Name | ma Name | ma tomo Name | toki Name | soweli Name 
 
-Name ~ 'x'
+Name ~ 'TODO'
 
 :discard ~ whitespace
 whitespace ~ [\s]+

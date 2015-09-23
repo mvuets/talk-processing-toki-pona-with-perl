@@ -1,0 +1,207 @@
+010.title.jpg
+
+-   hi, thanks, my name is
+-   want to talk about smth passioned about - toki pona
+-   i tend to speak quiet - give me a shout
+-   entertaining & interactive talk - need your support
+
+020.source.jpg
+
+-   2nd part - live coding, so get Marpa now
+-   also demo samples on my github, link in the talk desc.
+
+030.about-me.jpg
+
+-   ...
+
+040.agenda.jpg
+
+-   talk consists of 2 parts: about toki pona; intro into Marpa
+-   what who when why?
+-   principles & features
+-   alphabet, lexicon, writing system, phonetics
+-   real world examples
+-   quick refresh on parsing
+-   brief overview of Marpa
+-   live coding
+-   tp grammar showcase
+-   content changed since abstract was written
+
+050.www.jpg
+
+-   constructed language, like Klingon or Esperanto
+-   designed by Canadian translator & linguist Sonja Lang
+-   philosophical attempt to understand meaning of life, world, herself
+-   private project, released in 2001
+-   minimalistic: little vocabulary, simple grammar & phonetics
+-   toki - language, pona - good
+-   warning: not internation auxiliary language
+
+060.why.jpg
+
+-   simplify & KISS: modern world & lang. are cluttered with ways to express
+    simple things. break advanced concepts down into fundamental and basic
+    elements
+-   flex the brain: ever tried Tcl or FP? in a way TP makes you think
+    different, excercises your brain
+-   fun & joy: because learning and new stuff are cool
+-   enlightenment: sapir-whorf hypothesis AKA The principle of linguistic
+    relativity - lang determines the way of thinking. new world view,
+    enlightenment
+-   we are going to see these ideas in following slides
+
+070.redundancy.jpg
+
+-   modern languages have so many words. TP keeps it simple
+-   hungry, to teach, happy, girl, friend
+
+080.geology.jpg
+
+-   just a single example: geology - ancient Greek,
+    a stufy of earth, literally
+
+090.numerals.jpg
+
+-   ala, wan, tu, mute
+-   when in a desperate need: luka, mute, ale
+-   numbers are probably no more then ~10K y.o.
+-   so prevalent in our lives that cannot imagine survining w/o them
+-   tribe Munduruku, the Amazon River basin: 1..5, many
+-   no concept '6 fish', '10 children'
+
+100.colors.jpg
+
+-   RYB - predates CMYK
+-   loje - red, jelo - yellow, laso - blue
+-   walo - white, pimeja - black
+-   subtractive: jelo laso - green
+
+110.timtowtui.jpg
+
+-   all fruits, vegetables - kili
+
+120.kili.jpg
+
+-   due to the small vocabulary, is vague and ambiguous
+-   limitation, but not a flaw
+-   you don't need it often...
+
+130.o-pana-e-blank-tawa-mi.jpg
+
+-   so say we sit by a table, have dinner and i ask one to pass me wine
+
+140.telo.jpg
+
+-   o pana e telo tawa mi
+-   but if also milk - telo kili
+
+150.telo-kili.jpg
+
+-   but also juice - telo kili musi
+
+160.telo-kili-musi.jpg
+
+-   fun, amusing, entertaning
+-   now, if my wife does not want me to drink anymore - telo nasa
+
+170.telo-nasa.jpg
+
+-   crazy water
+-   look into the essence of things
+
+180.aei.jpg
+
+-   14 latin letters
+-   sounds like in English, j - yellow
+-   phonetics is permissive. toki = dogi; t-d, k-g, b-p
+-   1st syllable stressed
+
+190.lexicon.jpg
+
+-   entire vocabulary - 120 words
+-   4 legacy synonyms
+-   lower case
+
+200.sitelen-pona.jpg
+
+-   because vocabulary small - cool stuff like ideographic writting systems
+-   sitelen pona
+-   
+    sina suno mi
+    li suno taso mi.
+    kon li pimeja la mi pilin pona.
+    sina sona ala e olin mi.
+    o weka ala e suno mi.
+-
+    You are my sunshine,
+    my only sunshine
+    You make me happy when skies are grey.
+    You'll never know, dear, how much I love you.
+    Please don't take my sunshine away.
+
+210.tp-forum.png
+
+-   real world examples
+-   you just saw a poem
+-   irc, reddit, forum
+
+220.russ-comic.png
+
+230.monsuta-tu-pi-wan-taso.png
+
+-   suno pona, pini pona. ali li pona.
+    a perfect day, a perfect end. everything will be good
+
+240.wikipesjia.png
+
+250.jan-lawa.png
+
+-   the little prince, translated
+
+260.witch-village.png
+
+-   monty python, the witch village, subtitles
+
+270.lotr-poster.jpg
+
+280.mario.png
+
+290.zelda.png
+
+-   o pilin e nena - press any key
+-   push a button, touch the nose, feel the breast
+
+300.parsing.jpg
+
+-   so how the heck this is relevant to Perl?
+-   since it's succinct - maybe parse/NLP it?
+-   ran across a formal grammar, Ben - tried Marpa?
+-   parsing - transforming string into data
+
+310.regex.jpg
+
+-   perl is great at text processing
+-   regex are cool, but not really for parsing - rather matching
+
+320.bnf.jpg
+
+-   parsing rules - grammar
+-   a convenient way to describe grammar - BNF
+
+330.marpa.jpg
+
+-   Marpa - can take BNF as input.
+-   Marpa is a parsing algorithm, C library, binding in Perl
+-   by Jeffrey Kegler
+-   Marpa parses any language whose grammar can be written in BNF. That
+    includes recursive grammars, ambiguous grammars, infinitely ambiguous
+    grammars and grammars with useless or empty productions. Marpa does both
+    left- and right-recursion in linear time -- in fact if a grammar is in
+    any class currently in practical use, Marpa will parse it in linear time.
+-   powerful, convenient, fast, powerful, flexible
+-   handles ambiguous grammars
+-   SLIF - scanless interface, highlevel
+-   NAIF - named argument interface, discouraged, middle level
+-   Thin - low level access to underlying C lib
+-   not an expert, don't know Marpa much
+-   gentle quick intro into Marpa

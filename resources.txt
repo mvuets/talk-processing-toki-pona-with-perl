@@ -1,0 +1,83 @@
+toki pona
+=========
+
+http://tokipona.org/
+
+https://en.wikipedia.org/wiki/Toki_Pona
+https://en.wikibooks.org/wiki/Toki_Pona
+
+https://ru.wikipedia.org/wiki/Токипона
+https://ru.wikibooks.org/wiki/Токипона
+http://ixite.ru/toki_pona/
+http://www.e-novosti.info/forumo/ne-esperanto/topic2360.html
+
+http://tokipona.wikia.com/wiki/lipu_lawa
+
+http://tokipona.net/
+http://tokipona.net/tp/janpije/
+
+A Formal Grammar for Toki Pona
+    http://www2.hawaii.edu/~ztomasze/ics661/
+
+http://tokipona.net/parser/
+https://github.com/matthewdeanmartin/tokipona.parser.git
+
+https://github.com/janpona/pu
+
+https://news.ycombinator.com/item?id=9914534
+    http://www.theatlantic.com/technology/archive/2015/07/toki-pona-smallest-language/398363/
+    https://web.archive.org/web/20041116173522/http://www.geocities.com/tokipona/text/mphg.html
+
+The Little Prince: http://failbluedot.com/toki_pona/jan_lawa_lili
+
+http://www.reddit.com/r/tokipona
+
+http://www.omniglot.com/conscripts/tokipona.htm
+http://www.omniglot.com/language/phrases/tokipona.htm
+http://tokipona.net/tp/ClassicWordList.aspx
+
+https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object
+
+Toki Pona, the 120-Word Language - Christopher Huff at the Polyglot Gathering Berlin 2014
+    https://www.youtube.com/watch?v=DKYp7niDLFo
+
+http://www.podst.ru/blogs/248/
+
+http://tokilili.shoutem.com/
+
+http://www.tomo-lipu.net/
+
+https://aiki.pbworks.com/f/tp+in+76+lessons+English.pdf
+http://rowa.giso.de/languages/toki-pona/english/toki-pona-lessons.pdf
+
+Witch Village - Monty Python and the Holy Grail
+    https://www.youtube.com/watch?v=k3jt5ibfRzw
+    https://web.archive.org/web/20041116173522/http://www.geocities.com/tokipona/text/mphg.html#Scene%205
+
+http://tokipona.net/tp/janpije/image/posterlotr3.html
+http://www.kofightclub.com/d/20030526.html
+sina suno mi: http://tokipona.net/tp/janpije/text/sun.html
+Two Lonely Monsters (Monsuta Tu Pi Wan Taso): https://www.youtube.com/watch?v=Jnb5NMPFQpc
+
+https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana
+
+http://jonathangabel.com/learn/t47/lesson-1
+
+
+Marpa
+=====
+
+source repo: https://github.com/jeffreykegler/Marpa--R2
+homepage: http://savage.net.au/Marpa.html
+another: https://jeffreykegler.github.io/Marpa-web-site/
+Perl doc: https://metacpan.org/pod/Marpa::R2
+
+A lexeme in G1 is not a lexeme in any of the lexers
+http://marpa-guide.github.io/chapter3.html
+http://thread.gmane.org/gmane.comp.parsers.marpa/2719
+
+https://www.youtube.com/watch?v=t1SjsfAQiSg&list=PLrSLalZGd6yLq_CqWkbti8m18iL0d4hqE
+    Andrew Rodland (hobbs) - Parsing Made Easyish: https://www.youtube.com/watch?v=XaScLywH2CI
+    Введение в Marpa parser, Ruslan Zakirov - YAPC::Russia 2015: https://www.youtube.com/watch?v=9Dc9Btro4xc
+    The Marpa Parser: https://www.youtube.com/watch?v=t1SjsfAQiSg
+    FLOSS Weekly 321: Marpa: https://www.youtube.com/watch?v=JliSGjD1UCE
