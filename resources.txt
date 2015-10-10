@@ -81,3 +81,26 @@ https://www.youtube.com/watch?v=t1SjsfAQiSg&list=PLrSLalZGd6yLq_CqWkbti8m18iL0d4
     Введение в Marpa parser, Ruslan Zakirov - YAPC::Russia 2015: https://www.youtube.com/watch?v=9Dc9Btro4xc
     The Marpa Parser: https://www.youtube.com/watch?v=t1SjsfAQiSg
     FLOSS Weekly 321: Marpa: https://www.youtube.com/watch?v=JliSGjD1UCE
+
+
+NLP
+===
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.80.5070&rep=rep1&type=pdf
+http://www.cs.cmu.edu/~alavie/papers/thesis.pdf
+http://www-nlp.stanford.edu/IR-book/
+http://citforum.ru/programming/theory/serebryakov/4.shtml
+http://udel.edu/~heinz/classes/2012/4-667/materials/
+http://homepages.cwi.nl/~jve/lm2005/earley.pdf
+http://www.aclweb.org/anthology/N06-1020
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.3540&rep=rep1&type=pdf
+http://www.cis.upenn.edu/~lhuang3/forest-rerank.pdf
+http://www.aclweb.org/anthology/E93-1036
+http://research-srv.microsoft.com/pubs/68866/iwpt2000-rev3.pdf
+http://www.staff.icar.cnr.it/ruffolo/progetti/projects/09.Parsing%20CYK/Iterative%20CKY%20parsing%20for%20Probabilistic%20Context-Free%20Grammars--ijcnlp04.pdf
+http://www2.parc.com/isl/groups/nltt/papers/kb82-95.pdf
+http://boole.stanford.edu/pub/lingol75.html
+http://www.aclweb.org/anthology/P96-1032
+ftp://ftp.cs.vu.nl/pub/dick/PTAPG_1st_Edition/BookBody.pdf
+http://www.aclweb.org/anthology/N06-1040
+http://web.stanford.edu/~mjkay/Head-corner.pdf
