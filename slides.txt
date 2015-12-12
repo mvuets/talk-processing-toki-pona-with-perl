@@ -12,11 +12,12 @@
 
 030.about-me.jpg
 
--   ...
+-   booking.com - online accomodation reservation
+-   based in Amsterdam. growing. hiring a varity of devs, designers et al
 
 040.agenda.jpg
 
--   talk consists of 2 parts: about toki pona; intro into Marpa
+-   talk consists of 3 parts: about toki pona; intro into Marpa; markov chains
 -   what who when why?
 -   principles & features
 -   alphabet, lexicon, writing system, phonetics
@@ -25,7 +26,8 @@
 -   brief overview of Marpa
 -   live coding
 -   tp grammar showcase
--   content changed since abstract was written
+-   what's markov chain
+-   rubbish generator
 
 050.www.jpg
 
