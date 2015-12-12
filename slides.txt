@@ -205,3 +205,11 @@
 -   Thin - low level access to underlying C lib
 -   not an expert, don't know Marpa much
 -   gentle quick intro into Marpa
+
+340.syntax-tree.jpg
+350.syntax-list.jpg
+400.markov-morning.jpg
+410.markov-day.jpg
+420.markov-nogood.jpg
+430.markov-probs.jpg
+440.markov-gen.jpg

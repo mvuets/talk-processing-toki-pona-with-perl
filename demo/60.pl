@@ -1,4 +1,4 @@
-use v5.20;
+use strict;
 use warnings;
 use Marpa::R2;
 
@@ -32,4 +32,4 @@ my $grammar = Marpa::R2::Scanless::G->new({
 
 my $input = 'mi moku';
 my $result = $grammar->parse(\$input);
-say $$$result;
+print $$$result, "\n";

@@ -36,8 +36,6 @@ http://www.omniglot.com/conscripts/tokipona.htm
 http://www.omniglot.com/language/phrases/tokipona.htm
 http://tokipona.net/tp/ClassicWordList.aspx
 
-https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object
-
 Toki Pona, the 120-Word Language - Christopher Huff at the Polyglot Gathering Berlin 2014
     https://www.youtube.com/watch?v=DKYp7niDLFo
 
@@ -59,9 +57,11 @@ http://www.kofightclub.com/d/20030526.html
 sina suno mi: http://tokipona.net/tp/janpije/text/sun.html
 Two Lonely Monsters (Monsuta Tu Pi Wan Taso): https://www.youtube.com/watch?v=Jnb5NMPFQpc
 
-https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana
-
 http://jonathangabel.com/learn/t47/lesson-1
+
+https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object
+https://en.wikipedia.org/wiki/Time_flies_like_an_arrow;_fruit_flies_like_a_banana
+https://en.wikipedia.org/wiki/Phrase_structure_rules
 
 
 Marpa

@@ -1,4 +1,4 @@
-use v5.20;
+use strict;
 use warnings;
 use Data::Dumper;
 use Marpa::R2;

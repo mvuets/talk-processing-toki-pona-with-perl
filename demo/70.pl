@@ -1,4 +1,4 @@
-use v5.20;
+use strict;
 use warnings;
 use Marpa::R2;
 
@@ -37,5 +37,5 @@ my $rec = Marpa::R2::Scanless::R->new({
 my $input = 'mi moku';
 $rec->read(\$input);
 while (defined (my $result = $rec->value)) {
-    say $$$result;
+    print $$$result, "\n";
 }
