@@ -25,11 +25,13 @@ while (my $input = <>) {
 
     for my $w (@words) {
         my $def = $dict->{$w};
+        $w = "$w -";
         if (!$def) {
-            printf "%24s\n", $w;
+            printf "%24s %s\n",
+                colored($w, 'bold'),
+                colored('?', 'red');
         }
         else {
-            $w = "$w -";
             for my $d (@$def) {
                 my ($pos, $trans) = @$d;
                 printf "%24s %s %s\n",
