@@ -1,9 +1,11 @@
 010.title.jpg
 
--   hi, thanks, my name is
+-   toki! hi!
+-   my name is Maxim. nimi mi li jan Maki
 -   want to talk about smth passioned about - toki pona
 -   i tend to speak quiet - give me a shout
 -   entertaining & interactive talk - need your support
+-   questions policy
 
 020.source.jpg
 
@@ -14,6 +16,7 @@
 
 -   booking.com - online accomodation reservation
 -   based in Amsterdam. growing. hiring a varity of devs, designers et al
+-   my talk - unrelated to work
 
 040.agenda.jpg
 
@@ -50,7 +53,7 @@
 -   enlightenment: sapir-whorf hypothesis AKA The principle of linguistic
     relativity - lang determines the way of thinking. new world view,
     enlightenment
--   we are going to see these ideas in following slides
+-   we are going how these ideas are implemented in tp in following slides
 
 070.redundancy.jpg
 
@@ -60,7 +63,7 @@
 080.geology.jpg
 
 -   just a single example: geology - ancient Greek,
-    a stufy of earth, literally
+    a study of earth, literally
 
 090.numerals.jpg
 
@@ -80,26 +83,28 @@
 
 110.timtowtui.jpg
 
--   all fruits, vegetables - kili
+-   TIMTOWTDI - Perl's motto. toki pona employes a similar one
+-   [props time!]
 
 120.kili.jpg
 
+-   all fruits, vegetables - kili
 -   due to the small vocabulary, is vague and ambiguous
 -   limitation, but not a flaw
--   you don't need it often...
+-   it's fine! you don't need it often...
 
 130.o-pana-e-blank-tawa-mi.jpg
 
--   so say we sit by a table, have dinner and i ask one to pass me wine
+-   so say we sit by a table, have dinner and i ask one to pass me *wine*
 
 140.telo.jpg
 
 -   o pana e telo tawa mi
--   but if also milk - telo kili
+-   but if also *milk* - telo kili
 
 150.telo-kili.jpg
 
--   but also juice - telo kili musi
+-   but also *juice* - telo kili musi
 
 160.telo-kili-musi.jpg
 
@@ -128,18 +133,19 @@
 
 -   because vocabulary small - cool stuff like ideographic writting systems
 -   sitelen pona
--   
+-   in toki pona:
     sina suno mi
     li suno taso mi.
     kon li pimeja la mi pilin pona.
     sina sona ala e olin mi.
     o weka ala e suno mi.
--
+-   english translation:
     You are my sunshine,
     my only sunshine
     You make me happy when skies are grey.
     You'll never know, dear, how much I love you.
     Please don't take my sunshine away.
+-   emoji anyone?
 
 210.tp-forum.png
 
@@ -192,7 +198,6 @@
 
 330.marpa.jpg
 
--   Marpa - can take BNF as input.
 -   Marpa is a parsing algorithm, C library, binding in Perl
 -   by Jeffrey Kegler
 -   Marpa parses any language whose grammar can be written in BNF. That
@@ -202,14 +207,21 @@
     any class currently in practical use, Marpa will parse it in linear time.
 -   powerful, convenient, fast, powerful, flexible
 -   handles ambiguous grammars
--   SLIF - scanless interface, highlevel
+-   SLIF - scanless interface, highlevel, takes BNF as input
 -   NAIF - named argument interface, discouraged, middle level
 -   Thin - low level access to underlying C lib
 -   not an expert, don't know Marpa much
 -   gentle quick intro into Marpa
 
 340.syntax-tree.jpg
+
+-   Sentence, Noun Phrase, Verb Phrase, Verb, ARTicle, Noun
+
 350.syntax-list.jpg
+
+-   S-expression
+-   demo time!
+
 400.markov-morning.jpg
 410.markov-day.jpg
 420.markov-nogood.jpg
