@@ -15,3 +15,5 @@ it as an example to demonstrate how Perl can be applied for language
 processing (mangling? crunching?). We will take a look at parsing
 free-form text with a help of Marpa and writing a rubbish generator
 with a help of Markov chains.
+
+Video of talk from the [LPW2015](http://act.yapc.eu/lpw2015/): https://www.youtube.com/watch?v=FZa2v5T2nNY 
